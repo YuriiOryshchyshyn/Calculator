@@ -7,7 +7,6 @@ public class Calculator : MonoBehaviour
 {
     [SerializeField] private TMP_Text _inputField;
     [SerializeField] private CalkButton _calculateButton;
-    [SerializeField] private CalkButton _multipleButton;
 
     private void Awake()
     {
